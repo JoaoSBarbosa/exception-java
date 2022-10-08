@@ -1,0 +1,28 @@
+## Algoritmo simples em linguagem Java de uma conta bancaria ☕
+
+
+
+Desenvolva uma classe Conta que descreva uma conta bancaria
+
+
+
+Atributos da classe:
+
+- nomeTitular
+- saldo
+- conta
+
+Métodos:
+
+- saque()
+- deposito()
+- transferir()
+- info()
+- toString()
+- get()
+- set()
+
+Uso de POO:
+
+- Encapsulamento
+- Polimorfismo
